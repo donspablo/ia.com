@@ -1,5 +1,5 @@
 ---
-title: 'ia.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
+title: 'ia.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
 ia.com is under construction."
 ---
 
